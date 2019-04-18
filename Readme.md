@@ -12,6 +12,6 @@
 
 关于python challenge的介绍可见[如何用游戏提高python编程技能?](http://www.mwhitelab.com/archives/875)
 
-目前更新进度为 12/33，不定期更新中。
+目前更新进度为 18/33，不定期更新中。
 
 **分享该文件的目的为提供解题思路，而非四处散播python challenge的答案**
